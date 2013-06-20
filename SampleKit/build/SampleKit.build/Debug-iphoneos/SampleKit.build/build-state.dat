@@ -1,0 +1,164 @@
+TSampleKit
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-gloizsposmvzulephypcyeiaaprs/SampleKit_Prefix.pch.pth SampleKit_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-cjnpyjqjcydqyscjwkarxnrwlknt/SampleKit_Prefix.pch.pth SampleKit_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/SampleClass.o /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/SampleClass.o /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/libSampleKit.a normal armv7s
+cLibtool /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/libSampleKit.a normal armv7
+cCreateUniversalBinary /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos/libSampleKit.a normal "armv7 armv7s"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000051BAA4CD0000000000000110
+t1371186381
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051B14153000000000062AD10
+t1370571091
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051B1415200000000000015F7
+t1370571090
+s5623
+
+N/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m
+c000000004CE4D32800000000000000F9
+t1290064680
+s249
+
+N/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleKit_Prefix.pch
+c000000004CE4D32800000000000000BC
+t1290064680
+s188
+i<Foundation/Foundation.h>
+
+N/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos/libSampleKit.a
+t2
+s0
+
+N/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/SampleClass.o
+t2
+s0
+
+N/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/SampleKit.LinkFileList
+c0000000051C2F4290000000000000096
+t1371730985
+s150
+
+N/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/libSampleKit.a
+t2
+s0
+
+N/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/SampleClass.o
+t2
+s0
+
+N/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/SampleKit.LinkFileList
+c0000000051C2F4290000000000000097
+t1371730985
+s151
+
+N/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/libSampleKit.a
+t2
+s0
+
+N/var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-cjnpyjqjcydqyscjwkarxnrwlknt/SampleKit_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-gloizsposmvzulephypcyeiaaprs/SampleKit_Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3d43c0a92b73b741^c380d1a92b73b741^---0#1#0#--18"Check dependencies36"A3E1CF05-35D1-48C7-A9B5-298BA86198C6-
+
+CCompileC build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/SampleClass.o /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393423786.028031
+e393423786.046425
+r1
+xCompileC
+xbuild/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/SampleClass.o
+x/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m797807aa2b73b741^f3e30baa2b73b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m0000000000000000^4294"CompileC build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/SampleClass.o SampleClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=6.1 -iquote /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-generated-files.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-own-target-headers.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-all-target-headers.hmap -iquote /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-project-headers.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/DerivedSources/armv7 -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/DerivedSources -F/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos -include /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-gloizsposmvzulephypcyeiaaprs/SampleKit_Prefix.pch -MMD -MT dependencies -MF /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/SampleClass.d --serialize-diagnostics /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/SampleClass.dia -c /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m -o /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/SampleClass.o36"FE43C5D5-E1D6-4609-9E9E-380BA2193F81-
+
+CCompileC build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/SampleClass.o /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393423786.028038
+e393423786.045564
+r1
+xCompileC
+xbuild/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/SampleClass.o
+x/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m9a7807aa2b73b741^c1a90baa2b73b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m0000000000000000^4301"CompileC build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/SampleClass.o SampleClass.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=6.1 -iquote /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-generated-files.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-own-target-headers.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-all-target-headers.hmap -iquote /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-project-headers.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/DerivedSources/armv7s -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/DerivedSources -F/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos -include /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-cjnpyjqjcydqyscjwkarxnrwlknt/SampleKit_Prefix.pch -MMD -MT dependencies -MF /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/SampleClass.d --serialize-diagnostics /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/SampleClass.dia -c /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleClass.m -o /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/SampleClass.o36"94A7C4D0-3BC6-43B3-930E-ADA99CDCDEF8-
+
+CCreateUniversalBinary /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos/libSampleKit.a normal "armv7 armv7s"
+s393423786.070908
+e393423786.095650
+r1
+xCreateUniversalBinary
+x/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos/libSampleKit.a
+xnormal
+xarmv7 armv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Create universal binary /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos/libSampleKit.a236612aa2b73b741^527c18aa2b73b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos/libSampleKit.a000000000080d041^1472"CreateUniversalBinary build/Debug-iphoneos/libSampleKit.a normal "armv7 armv7s"    cd /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/libSampleKit.a /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/libSampleKit.a -o /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos/libSampleKit.a36"AF78B30C-792E-43C2-BD63-58923E8167FA-
+
+CLibtool /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/libSampleKit.a normal armv7
+s393423786.052571
+e393423786.064509
+r1
+xLibtool
+x/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/libSampleKit.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Libtool build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/libSampleKit.a normal armv752b50daa2b73b741^828c10aa2b73b741^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1794"Libtool build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/libSampleKit.a normal armv7    cd /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos -filelist /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/SampleKit.LinkFileList -ObjC -framework Foundation -o /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7/libSampleKit.a36"D89FAB15-0204-4FB3-9FC6-60DF20103E80-
+
+CLibtool /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/libSampleKit.a normal armv7s
+s393423786.052251
+e393423786.064520
+r1
+xLibtool
+x/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/libSampleKit.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Libtool build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/libSampleKit.a normal armv7s9ca40daa2b73b741^b08d10aa2b73b741^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1799"Libtool build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/libSampleKit.a normal armv7s    cd /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos -filelist /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/SampleKit.LinkFileList -ObjC -framework Foundation -o /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/Objects-normal/armv7s/libSampleKit.a36"C3E588F7-9CA0-4A33-B0E8-AE40B5057AE5-
+
+CProcessPCH /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-cjnpyjqjcydqyscjwkarxnrwlknt/SampleKit_Prefix.pch.pth SampleKit_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393423785.824959
+e393423786.021087
+r1
+xProcessPCH
+x/var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-cjnpyjqjcydqyscjwkarxnrwlknt/SampleKit_Prefix.pch.pth
+xSampleKit_Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile SampleKit_Prefix.pchf889d3a92b73b741^6e6905aa2b73b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleKit_Prefix.pch0000000000000000^4268"ProcessPCH /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-cjnpyjqjcydqyscjwkarxnrwlknt/SampleKit_Prefix.pch.pth SampleKit_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=6.1 -iquote /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-generated-files.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-own-target-headers.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-all-target-headers.hmap -iquote /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-project-headers.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/DerivedSources/armv7s -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/DerivedSources -F/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos --serialize-diagnostics /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-cjnpyjqjcydqyscjwkarxnrwlknt/SampleKit_Prefix.pch.dia -c /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleKit_Prefix.pch -o /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-cjnpyjqjcydqyscjwkarxnrwlknt/SampleKit_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-cjnpyjqjcydqyscjwkarxnrwlknt/SampleKit_Prefix.pch.d36"7736C743-5C39-46A8-B10B-E2D88AD3F2C1-
+
+CProcessPCH /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-gloizsposmvzulephypcyeiaaprs/SampleKit_Prefix.pch.pth SampleKit_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393423785.824956
+e393423786.021085
+r1
+xProcessPCH
+x/var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-gloizsposmvzulephypcyeiaaprs/SampleKit_Prefix.pch.pth
+xSampleKit_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile SampleKit_Prefix.pch098ad3a92b73b741^806505aa2b73b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleKit_Prefix.pch0000000000000000^4265"ProcessPCH /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-gloizsposmvzulephypcyeiaaprs/SampleKit_Prefix.pch.pth SampleKit_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=6.1 -iquote /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-generated-files.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-own-target-headers.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-all-target-headers.hmap -iquote /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/SampleKit-project-headers.hmap -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/DerivedSources/armv7 -I/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/SampleKit.build/Debug-iphoneos/SampleKit.build/DerivedSources -F/Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/build/Debug-iphoneos --serialize-diagnostics /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-gloizsposmvzulephypcyeiaaprs/SampleKit_Prefix.pch.dia -c /Users/tomohiro/Desktop/iOS-Sample-Code-2010-11-19c/SampleKit/SampleKit_Prefix.pch -o /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-gloizsposmvzulephypcyeiaaprs/SampleKit_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/s_/f45vjz2n38g892cmlttlcwtw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleKit_Prefix-gloizsposmvzulephypcyeiaaprs/SampleKit_Prefix.pch.d36"248FEE4A-6B36-450F-8C6C-2111AC945881-
+
